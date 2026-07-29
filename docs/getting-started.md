@@ -176,7 +176,10 @@ Channels:
 - #nyc - scoped to nyc
 - #hv - scoped to hv
 - #li - scoped to li
-- #testing - no scope (will change later)
+- #hud-testing - scope to hud
+- #nyc-testing - scope to nyc
+- #hv-testing - scope to hv
+- #li-testing - scope to li
 - #emergency - no scope (will change later)
 
 <div class="callout" id="meshcore-radio-settings">
